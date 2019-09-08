@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">ล็อกอิน</string>
+    <string name="login_to_facebook">ลงชื่อเข้าใช้เฟสบ๊ค</string>
+    <string name="passwprd">รหัสผ่าน</string>
+    <string name="username">บัญชีผู้ใช้</string>
+</resources>

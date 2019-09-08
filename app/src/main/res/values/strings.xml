@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="passwprd">Passwprd</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="login_to_facebook">Login To Facebook</string>
+</resources>
